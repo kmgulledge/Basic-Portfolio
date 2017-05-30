@@ -36,6 +36,9 @@ h1 {
 	font-variant: normal;
 	color: #4aaaa5;
 }
+hr{
+	border-width: 2px solid #dddddd;
+}
 
 /** Nav Info  **/
 .nav{
