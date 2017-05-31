@@ -7,7 +7,7 @@ body{
 	background-image: url("../images/cork-wallet.png");
 	background-repeat: repeat;
 	display: flex;
-  	
+  	min-height: 100vh
   	min-width: 960px;
    	flex-direction: column;
 }
